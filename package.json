@@ -1,0 +1,24 @@
+{
+  "name": "angularjs_todo_app",
+  "version": "1.0.0",
+  "description": "To do App - my first app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5l5llog/Music_band.git"
+  },
+  "author": "hRogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5l5llog/Music_band/issues"
+  },
+  "homepage": "https://github.com/5l5llog/Music_band#readme"
+}
